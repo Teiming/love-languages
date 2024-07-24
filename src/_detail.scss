@@ -40,6 +40,8 @@
       display: flex;
       flex-direction: column;
       gap: 0.5rem;
+      max-height: 30rem;
+      overflow: scroll;
       p {
         line-height: 1.5;
         text-indent: 1rem;
